@@ -81,7 +81,7 @@ else:
 
 
 
-#python text_t1.py
+#python task2.py
 
 
 
